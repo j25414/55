@@ -1,3 +1,2 @@
-https://github.com/juyuange9/jproxy
-聚缘阁禁闻导航安卓版，点击下载！
-https://baidu.com
+聚缘阁代理入口
+https://github.com/juyuange9/daili/wiki/jygproxy
